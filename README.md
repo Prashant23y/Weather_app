@@ -19,7 +19,7 @@ A modern weather dashboard built with React featuring animated weather effects a
 
 🌍 **View Website**
 
-[https://vercel.com/prashant-kumars-projects-d7a6756e/weather-app]
+[https://weather-app-blue-xi-91.vercel.app/]
 
 ---
 
@@ -92,7 +92,7 @@ src
 
 Clone repository
 
-git clone [https://github.com/Prashant23y/Weather_app.git]
+git clone https://github.com/Prashant23y/Weather_app.git
 
 Go into folder
 
